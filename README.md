@@ -2,7 +2,7 @@
 
 -I’m interested in digital design, verification and electric comunications
 
--I’m currently a Electronics licentiate student
+-Currently working as SoC Design Engineer
 
 -How to reach me: pchavesa11@gmail.com 
 
